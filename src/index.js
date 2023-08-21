@@ -102,18 +102,17 @@ function isEmpty(str) {
   return str.trim() === "";
 }
 
-isTesting = true;
-
-if (isTesting) {
-  console.log(capitalize("hello"));
-  console.log(allCaps("hello"));
-  console.log(capitalizeWords("hello world"));
-  console.log(removeExtraSpaces("  hello   world  "));
-  console.log(capitalizeHeadline("the hello world"));
-  console.log(kebobCase("Hello World"));
-  console.log(snakeCase("Hello World"));
-  console.log(camelCase("Hello World"));
-  console.log(shift("Hello World"));
-  console.log(makeHashTag("Amazing bongo drums for sale"));
-  console.log(isEmpty(" "));
-}
+// Exports
+module.exports = {
+  capitalize,
+  allCaps,
+  capitalizeWords,
+  removeExtraSpaces,
+  capitalizeHeadline,
+  kebobCase,
+  snakeCase,
+  camelCase,
+  shift,
+  makeHashTag,
+  isEmpty,
+};
