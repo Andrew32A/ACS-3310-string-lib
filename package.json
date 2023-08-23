@@ -1,14 +1,14 @@
 {
-  "name": "string-lib",
+  "name": "@andrew_dominican/string-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of essential string utilities to aid in the manipulation and transformation of strings in JavaScript.",
   "main": "./src/index.js",
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "andrew_dominican",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.3"
