@@ -2,6 +2,8 @@
 
 A collection of essential string utilities to aid in the manipulation and transformation of strings in JavaScript.
 
+![npm package minimized gzipped size (select exports)](https://img.shields.io/bundlejs/size/%40andrew_dominican%2Fstring-lib)
+
 ## Installation
 
 ```bash
