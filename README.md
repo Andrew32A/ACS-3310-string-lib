@@ -4,6 +4,8 @@ A collection of essential string utilities to aid in the manipulation and transf
 
 ![npm package minimized gzipped size (select exports)](https://img.shields.io/bundlejs/size/%40andrew_dominican%2Fstring-lib)
 
+https://www.npmjs.com/package/@andrew_dominican/string-lib
+
 ## Installation
 
 ```bash
