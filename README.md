@@ -9,7 +9,7 @@ https://www.npmjs.com/package/@andrew_dominican/string-lib
 ## Installation
 
 ```bash
-npm install [string-library]
+npm install @andrew_dominican/string-lib
 ```
 
 ## Usage
